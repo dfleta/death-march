@@ -3,9 +3,11 @@ Recursos do reto dos módulos Programación e Contornos de Desenvolvemento do ci
 
 ## Arquitectura de aplicacións
 
-[Diagrama de Tensión en la Cohesión de Componentes](./code_complete/component%20cohesion%20tension%20diagram.md)
+[Os Frameworks son detalles](./code_complete/Frameworks%20are%20details%20Clean%20Architecture.md)
 
-[Cohesión de componentes](./code_complete/component%20cohesion.md)
+[Diagrama de Tensión na Cohesión de Compoñentes](./code_complete/component%20cohesion%20tension%20diagram.md)
+
+[Cohesión de compoñentes](./code_complete/component%20cohesion.md)
 
 [Modelo Vista Controlador](./code_complete/MVC.md)
 

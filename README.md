@@ -9,7 +9,7 @@ Recursos do reto dos módulos Programación e Contornos de Desenvolvemento do ci
 
 [Cohesión de compoñentes](./code_complete/component%20cohesion.md)
 
-[MVC Fopor Martin Fowler](./code_complete/MVC%20Fowler.md)
+[MVC por Martin Fowler](./code_complete/MVC%20Fowler.md)
 
 [Modelo Vista Controlador](./code_complete/MVC.md)
 

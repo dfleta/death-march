@@ -1,10 +1,14 @@
-Recursos módulo Modelos de Intelixencia Artificial do curso de especialización en IA e _big data_.
-===================
+Recursos do reto dos módulos Programación e Contornos de Desenvolvemento do ciclo DAM
+=====================================================================================
 
-## Recursos
+## Arquitectura de aplicacións
 
-["Recursos"](IA%20101.md)
+[Diagrama de Tensión en la Cohesión de Componentes](./code_complete/component%20cohesion%20tension%20diagram.md)
 
-## El neandertal desnudo (Ludovic Slimak)
+[Cohesión de componentes](./code_complete/component%20cohesion.md)
 
-["El neandertal desnudo"](./neandertal/clippings%20notas%20neandertal.md)
+[Modelo Vista Controlador](./code_complete/MVC.md)
+
+[Patrón notificación de eventos](./code_complete/patrón%20notificación%20de%20eventos.md)
+
+[Resumen vídeo Martn Fowler sobre Event-Driven Architecture](./code_complete/video%20event%20driven%20architecture.md)

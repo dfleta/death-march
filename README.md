@@ -31,7 +31,7 @@ Recursos do reto dos módulos Programación e Contornos de Desenvolvemento do ci
 
 ## Estructura da documentación a entregar
 
-A documentación no `README.md` ten que seguir este orde e títulos dos epígrafes:
+A documentación no `README.md` ten que seguir de xeito obrigatorio esta orde e títulos dos epígrafes.
 
 Recorda explicar con texto o contido das figuras que engadas na documentación.
 
